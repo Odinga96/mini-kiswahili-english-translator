@@ -46,7 +46,12 @@ public class MainActivity extends AppCompatActivity {
                 translateText();
             }
         });
-
+        exit_btn.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                System.exit(0);
+            }
+        });
 
     }
 
