@@ -6,4 +6,6 @@ We load a .cvs file that maps a **kiswahili words ** to **english words**.
 
 We use a recyclerview to populate the visualize the translation. 
 
-![Test Image 1](https://raw.githubusercontent.com/tograh/testrepository/master/3DTest.png)
+![shot 1](images/shot1.png)
+![shot 2](images/shot2.png)
+![shot 3](images/shot3.png)
